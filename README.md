@@ -1,2 +1,2 @@
-# estudo_fundamentos_programacao
+# fundamentos_da_programacao
  Exemplos e exercícios para estudo dos fundamentos da programação.
